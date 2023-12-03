@@ -1,0 +1,4 @@
+
+Términos de Servicio para la Aplicación de Gmail API en Modo de Prueba
+
+Al utilizar esta aplicación, usted acepta usarla bajo su propio riesgo y exclusivamente para fines de desarrollo y pruebas personales. La aplicación se proporciona "tal cual" y el desarrollador no ofrece garantías de ningún tipo en cuanto a su funcionamiento o idoneidad para cualquier propósito. El desarrollador no será responsable de ningún daño o pérdida resultante del uso de la aplicación.

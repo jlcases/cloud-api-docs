@@ -1,0 +1,4 @@
+
+Política de Privacidad para la Aplicación de Gmail API en Modo de Prueba
+
+Esta aplicación está en modo de prueba y está diseñada para uso personal y de desarrollo solamente. No se recopila, almacena, transmite ni comparte ningún dato personal de los usuarios. La aplicación utiliza la API de Gmail para acceder a los correos electrónicos del usuario con el único propósito de permitir al usuario interactuar con su propia cuenta de Gmail. Todos los datos se manejan de acuerdo con las políticas de privacidad de Google y las leyes de protección de datos aplicables.
